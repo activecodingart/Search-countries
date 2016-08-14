@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic);
+body {
+	font-family: "PT Sans";
+	font-size: 18px;
+	background: url("../img/Sustainable-Countries.jpg") no-repeat;
+/*	color: #fcfeff;*/
+}
+
+h1 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+h1,h2 {
+	text-shadow: 0 0 5px #000;
+	color: #fefefe;
+}
+table {
+	background-color: #fff;
+}
